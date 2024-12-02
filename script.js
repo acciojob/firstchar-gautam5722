@@ -1,6 +1,6 @@
 function firstChar(text) {
   // your code here
-	return text[0];
+	return text[0].trim();  
 }
 
 // Do not change the code below
